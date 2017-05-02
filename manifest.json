@@ -1,0 +1,20 @@
+{
+  "name": "Placker",
+  "details":"",
+  "icon": {
+    "url": "https://d30y9cdsu7xlg0.cloudfront.net/png/80449-200.png"
+  },
+  "author": "Reinder Visser",
+  "capabilities": [
+    "callback",
+    "board-buttons",
+    "card-badges",
+    "card-buttons",
+    "card-detail-badges"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  }
+}
